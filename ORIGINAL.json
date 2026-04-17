@@ -1,0 +1,814 @@
+{
+  "gunsounds": {
+    "Pistols": {
+      "1911": {
+        "1911_slideback": "749505401",
+        "Audio_M1911_Fire5": "14861644176"
+      },
+      "Desert Eagle": {
+        "Audio_DesertEagle_Fire1": "14861034952",
+        "Audio_DesertEagle_Fire2": "14861034775",
+        "Audio_DesertEagle_Fire3": "14861034592",
+        "Audio_DesertEagle_Fire4": "14861033900",
+        "Audio_DesertEagle_Forward7_1_": "11846719635",
+        "Deagle_Fire": "7656488588",
+        "DesertEagle_Back": "11842379549",
+        "DesertEagle_In": "11842378526",
+        "DesertEagle_Out": "11842377864",
+        "de_draw": "326185325"
+      },
+      "Dual LCR": {
+        "Audio_DualLCR_Fire1": "14872627600",
+        "Audio_DualLCR_Fire2": "14872627273",
+        "Audio_DualLCR_Fire3": "14872627423",
+        "Audio_DualLCR_Fire4": "14872627106",
+        "Audio_DualLCR_Fire5": "14872626760",
+        "Audio_DualLCR_Fire6": "14872626940",
+        "DualLCRs_Fire": "7011386219"
+      },
+      "Dual Volcanics": {
+        "Audio_DualVolcanics_Fire1": "14690991852",
+        "Audio_DualVolcanics_Fire2": "14690991755",
+        "Audio_DualVolcanics_Fire3": "14690991659",
+        "Audio_DualVolcanics_Fire4": "14690991587",
+        "DualVolcanics_Fire": "9172126692"
+      },
+      "Electric Revolver": {
+        "Audio_ElectricRevolver_Fire1": "14692691467",
+        "Audio_ElectricRevolver_Fire2": "14692691382",
+        "Audio_ElectricRevolver_Fire3": "14692691288",
+        "Audio_ElectricRevolver_Fire4": "14692691203",
+        "Audio_ElectricRevolver_Fire5": "14692691334",
+        "ElectricRevolver_Fire": "7607676334"
+      },
+      "Glock 19X": {
+        "Audio_Glock19X_Fire1": "14692712037",
+        "Audio_Glock19X_Fire2": "14692711790",
+        "Audio_Glock19X_Fire3": "14692712181",
+        "Audio_Glock19X_Fire4": "14692711730",
+        "Audio_Glock19X_Fire5": "14692711927",
+        "Audio_Glock19X_Fire6": "14692711863",
+        "G19X_Fire": "7607663540"
+      },
+      "Handcannon": {
+        "Audio_Handcannon_Fire1": "14692723466",
+        "Audio_Handcannon_Fire2": "14692723400",
+        "Audio_Handcannon_Fire3": "14692723105",
+        "Audio_Handcannon_Fire4": "14692723206",
+        "Audio_Handcannon_Fire5": "14692723316",
+        "Audio_Handcannon_Fire6": "14692722983",
+        "HandCannon_Close": "6975120418",
+        "HandCannon_Fire2": "6975117369",
+        "HandCannon_Insert": "6975120132",
+        "HandCannon_Open": "6975118941"
+      },
+      "HiPower": {
+        "Audio_HiPower_Fire1": "14692745373",
+        "Audio_HiPower_Fire2": "14692745235",
+        "Audio_HiPower_Fire3": "14692745511",
+        "Audio_HiPower_Fire4": "14692745150",
+        "Audio_HiPower_Fire5": "14692745072",
+        "Audio_HiPower_Fire6": "14692745611",
+        "browning_hp_maghit": "1544307848",
+        "browning_hp_magin": "1112470828",
+        "browning_maghit": "1505932810"
+      },
+      "Hush Puppy": {
+        "Audio_HushPuppy_Fire1": "14692771975",
+        "Audio_HushPuppy_Fire2": "14692772061",
+        "Audio_HushPuppy_Fire3": "14692771827",
+        "Audio_HushPuppy_Fire4": "14692771906",
+        "HushBack": "11834684866",
+        "HushForward": "11834685612",
+        "HushPuppyFire": "11833938466"
+      },
+      "Kolibri": {
+        "Audio_Kolibri_Fire1": "14893691403",
+        "Audio_Kolibri_Fire2": "14893691646",
+        "Audio_Kolibri_Fire3": "14893691578",
+        "Audio_Kolibri_Fire4": "14893691492",
+        "Audio_Kolibri_Fire": "7602244699"
+      },
+      "M9": {
+        "Audio_M9_Fire1 _1_": "14692779293",
+        "Audio_M9_Fire2": "14692778963",
+        "Audio_M9_Fire3": "14692779173",
+        "Audio_M9_Fire4": "14692779066",
+        "Audio_M9_Fire5": "14692778878",
+        "Audio_M9_Fire6": "14692778797",
+        "m9_maghit": "888772415"
+      },
+      "Makarov": {
+        "Audio_Makarov_Fire1": "14861563622",
+        "Audio_Makarov_Fire2": "14861563407",
+        "Audio_Makarov_Fire3": "14861563166",
+        "Audio_Makarov_Fire4": "14861562974",
+        "Makarov_Fire": "7656495507"
+      },
+      "Maxim 9": {
+        "Audio_Maxim9_Fire1": "14692794714",
+        "Audio_Maxim9_Fire2": "14692794632",
+        "Audio_Maxim9_Fire3": "14692801888",
+        "Audio_Maxim9_Fire4": "14692794566"
+      },
+      "P250": {
+        "Audio_P250_Fire1 _1_": "14692806309",
+        "Audio_P250_Fire2": "14692806358",
+        "Audio_P250_Fire3": "14692806231",
+        "Audio_P250_Fire4": "14692806101",
+        "Audio_P250_Fire5": "14692805923",
+        "Audio_P250_Fire": "7602037748"
+      },
+      "Pathbringer": {
+        "Audio_Pathbringer_Close": "7602313746",
+        "Audio_Pathbringer_CylinderSpin": "7602313262",
+        "Audio_Pathbringer_Deploy": "7602313546",
+        "Audio_Pathbringer_Fire1 _1_": "14692819430",
+        "Audio_Pathbringer_Fire2": "14692819310",
+        "Audio_Pathbringer_Fire3": "14692819198",
+        "Audio_Pathbringer_Fire4": "14692819535",
+        "Audio_Pathbringer_Fire5": "14692819056",
+        "Audio_Pathbringer_Fire6": "14692818951",
+        "Audio_Pathbringer_Fire": "7602313413",
+        "Audio_Pathbringer_Insert": "7602312880",
+        "Audio_Pathbringer_Open": "7602313081"
+      },
+      "Revolver": {
+        "Audio_Revolver_CloseCylinder": "6031562916",
+        "Audio_Revolver_Fire": "6031562843",
+        "Audio_Revolver_InsertSpeedloader": "6031562698",
+        "Audio_Revolver_OpenCylinder": "6031562607",
+        "Revolver_InsertBullet": "7729959375",
+        "Revolver_Prime": "7607816434",
+        "rev_extractall": "4434988344"
+      },
+      "Soul Pistol": {
+        "Audio_SoulPistol_Fire1": "14692889104",
+        "Audio_SoulPistol_Fire2": "14692888812",
+        "Audio_SoulPistol_Fire3": "14692889031",
+        "Audio_SoulPistol_Fire4": "14692888728",
+        "Audio_SoulPistol_Fire5": "14692888621",
+        "Audio_SoulPistol_Fire6": "14692888927",
+        "SoulPistol_Deploy": "7765820804",
+        "SoulPistol_Fire": "7002628663",
+        "SoulPistol_MagOut": "7765822219",
+        "SoulPistol_SlideBack": "7765825255",
+        "SoulPistol_SlideForward": "7765826313"
+      },
+      "Webley": {
+        "Audio_Webley_Fire1 _1_": "14692903696",
+        "Audio_Webley_Fire2": "14692903769",
+        "Audio_Webley_Fire3": "14692903554",
+        "Audio_Webley_Fire4": "14692903633",
+        "Audio_Webley_Fire5": "14692903323",
+        "Audio_Webley_Fire6": "14692903451",
+        "Audio_Webley_Fire": "7602036046"
+      },
+      "Windicator": {
+        "Audio_Windicator_Fire1 _1_": "14692916315",
+        "Audio_Windicator_Fire2": "14692915943",
+        "Audio_Windicator_Fire3": "14692916224",
+        "Audio_Windicator_Fire4": "14692916133",
+        "Audio_Windicator_Fire5": "14692916024",
+        "Audio_Windicator_Fire6": "14692915838"
+      },
+      "Golden Gun": {
+        "GoldenGun_Close": "6975131013",
+        "GoldenGun_Fire": "6975130463",
+        "GoldenGun_Open": "6975130778",
+        "GoldenGun_Prime": "6975131263"
+      },
+      "PPK": {
+        "ppk_maghit": "1544326300"
+      },
+      "Prismas": {
+        "prismas_SlideRelease": "3877201425"
+      },
+      "Tactical Pistol": {
+        "Tactical Pistol Fire _Silenced_": "4527562401"
+      },
+      "Tokarev": {
+        "tokarev_boltrelease": "1112472540",
+        "tokarev_magout": "1112472921"
+      },
+      "Generic Pistols": {
+        "pistol_empty": "479672376",
+        "Pistol_MagOut": "7656484826",
+        "Pistol_SlideBack": "7656486499",
+        "Pistol_SlideForward": "7656487349"
+      }
+    },
+    "Automatics": {
+      "AK47": {
+        "ak47_maghit": "777244606",
+        "Audio_AK47_BoltBack": "7602042978",
+        "Audio_AK47_BoltForward": "7602042813",
+        "Audio_AK47_Fire": "7602246020",
+        "Audio_AK47_MagOut": "7602042199"
+      },
+      "AKM": {
+        "Audio_AKM_Fire": "7602245822"
+      },
+      "AUG": {
+        "aug_boltin": "1165425426",
+        "aug_bolt": "1165425164",
+        "AUG_Fire": "7765198750"
+      },
+      "EM249 / M249": {
+        "Audio_EM249_Fire": "7602040844",
+        "m249_magin": "1158045048",
+        "m249_magout": "1158045203"
+      },
+      "FAL / FNFAL": {
+        "FAL_BoltIn": "76299775940173",
+        "FAL_Bolt": "133263295401510",
+        "FAL_MagIn": "93027742054968",
+        "FAL_MagOut": "133089649737962",
+        "FNFAL_Fire": "7765193567"
+      },
+      "Famas": {
+        "famas_BoltForward": "3832682138",
+        "famas_Bolt": "3832676257",
+        "famas_cliphit": "515216161"
+      },
+      "FMG9": {
+        "FMG9_Fire": "7729947224",
+        "fmg9_unfold2": "5039576228"
+      },
+      "G3": {
+        "Audio_G3_Fire": "13611288661"
+      },
+      "Gatling Gun": {
+        "GatlingGun_Fire": "7859731121"
+      },
+      "M16": {
+        "m16_boltin": "4036257494",
+        "m16_bolt": "4036256997",
+        "m16_drumhit": "4036258024",
+        "m16_drumin": "4037224368",
+        "m16_drumout": "4036259123",
+        "m16_maghit": "740317522",
+        "m16_magplace": "4036265165"
+      },
+      "M1918 BAR": {
+        "M1918BAR_Fire": "7765191654"
+      },
+      "M4A1": {
+        "M4A1 BoltBack": "4659477201",
+        "M4A1 MagIn": "4659477727",
+        "M4A1BoltRelease": "4659477337",
+        "M4A1MagOut": "4659477856",
+        "M4A1": "4659476789",
+        "M4A1_BoltBack": "6975123612",
+        "M4A1_BoltForward": "6975124095",
+        "m4a1_deploy": "1665638797",
+        "M4A1_Fire": "6975122537",
+        "M4A1_MagOut": "6975122984",
+        "m4_maghit": "2604459203"
+      },
+      "M60": {
+        "Audio_M60_BoltBack": "7602039844",
+        "Audio_M60_BoltForward": "7602039024",
+        "m60_fire": "780742244"
+      },
+      "MAT49": {
+        "MAT49_Fire": "7729949467"
+      },
+      "Micro Uzi": {
+        "MicroUzis_Fire": "7729951116"
+      },
+      "MK18": {
+        "MK18_Fire": "7650268408"
+      },
+      "MP5K": {
+        "MP5K_Fire": "7729952125"
+      },
+      "MP7": {
+        "MP7_Fire": "7729952678"
+      },
+      "MP9": {
+        "MP9s_Fire": "7729953293"
+      },
+      "MS556": {
+        "MS556_ClipIn": "7607950008",
+        "MS556_ClipOut": "7607944136"
+      },
+      "P90": {
+        "P90BoltBack": "3407966562",
+        "P90HitMag": "3407968154",
+        "P90_Fire": "7729954112"
+      },
+      "PPSH": {
+        "PPSH_Fire": "7729958048"
+      },
+      "SCAR-H": {
+        "SCARH_Fire": "7765190231"
+      },
+      "STG44": {
+        "stg44_fp": "1544327064"
+      },
+      "TEC9": {
+        "TEC9_BoltBack": "7665747404",
+        "TEC9_BoltForward": "7665748207"
+      },
+      "UMP45": {
+        "UMP45_Fire": "7729961490"
+      },
+      "Vector": {
+        "Vector_Fire": "7729962331"
+      },
+      "XR15": {
+        "Audio_XR15_Fire1": "14702200678",
+        "Audio_XR15_Fire2": "14702200311",
+        "Audio_XR15_Fire3": "14702200482",
+        "Audio_XR15_Fire4": "14702200176",
+        "XR15_Fire": "7765204626"
+      },
+      "Generic Automatics": {
+        "BananaMag_In": "7765196968",
+        "BananaMag_Out": "7765195525",
+        "SMG_BoltBack": "7729963169",
+        "SMG_BoltForward": "7729963805",
+        "SMG_ClipIn": "7729964435",
+        "SMG_ClipOut": "7729965138",
+        "smg_clip_in_1": "4195012993",
+        "smg_deploy_1": "4195014718"
+      }
+    },
+    "Shotguns": {
+      "AA12": {
+        "aa12_slap": "3944217579"
+      },
+      "Double Barrel Shotgun": {
+        "Audio_DBshotgun_Fire1 _1_": "14699888545",
+        "Audio_DBshotgun_Fire2": "14699888449",
+        "Audio_DBshotgun_Fire3": "14699888325",
+        "Audio_DBshotgun_Fire4": "14699888222",
+        "Audio_DBshotgun_Fire5": "14699888123",
+        "Audio_DBS_Fire1": "14702230930",
+        "Audio_DBS_Fire2": "14702230527",
+        "Audio_DBS_Fire3": "14702231199",
+        "Audio_DBS_Fire4": "14702231677",
+        "Audio_DBS_Fire5": "14702231431",
+        "Audio_DBS_Fire6": "14702230721",
+        "DBlupara_Close": "5876696070",
+        "DBlupara_Open": "5876695830",
+        "DBshotgun_Fire": "6975140888",
+        "DBS_Fire": "6975157091",
+        "DBS_TrueOpen": "6975156760",
+        "db_shellout": "869873631"
+      },
+      "Ithaca": {
+        "ithaca_shell_insert_1": "1544316788",
+        "ithaca_shell_insert_2": "1544316885",
+        "ithaca_shell_insert_3": "1544316995"
+      },
+      "Lever Shotgun": {
+        "Audio_LeverShotgun_Fire1": "14699928117",
+        "Audio_LeverShotgun_Fire2": "14699927943",
+        "Audio_LeverShotgun_Fire3": "14699928051",
+        "Audio_LeverShotgun_Fire4": "14699927816",
+        "LeverShotgun_Fire": "5876693712",
+        "LeverShotgun_InsertShell1": "5876693955",
+        "LeverShotgun_InsertShell2": "5876694153",
+        "LeverShotgun_InsertShell3": "5876694382",
+        "LeverShotgun_LeverBack": "5876694601",
+        "LeverShotgun_LeverForward": "5876694890"
+      },
+      "Nova": {
+        "nova_pump": "206953217"
+      },
+      "Poachers Pride": {
+        "Audio_PoachersPride_CloseBarrel": "6031564145",
+        "Audio_PoachersPride_DoublePrime": "6031564060",
+        "Audio_PoachersPride_InsertDoubleShells": "6031563662"
+      },
+      "SPAS12": {
+        "Audio_SPAS12_Fire": "7602036799"
+      },
+      "TOZ106": {
+        "Audio_TOZ106_Fire1": "14699982340",
+        "Audio_TOZ106_Fire2": "14699981995",
+        "Audio_TOZ106_Fire3": "14699982165",
+        "Audio_TOZ106_Fire4": "14699982079",
+        "Audio_TOZ106_Fire5": "14699982233",
+        "Audio_TOZ106_Fire6": "14699982436",
+        "TOZ106_Fire": "7665749466"
+      },
+      "Generic Shotguns": {
+        "Audio_SGfire": "11847473492",
+        "Audio_SGreload": "11847492006",
+        "PumpShotgun_Pumps": "6979002635",
+        "ShellLoad1": "5876707530",
+        "Shotguns_ClipIn": "7803046742",
+        "Shotguns_ClipOut": "7803045930",
+        "Shotgun_Fire": "5876688495"
+      }
+    },
+    "Snipers_and_Rifles": {
+      "AWP": {
+        "awp_cliphit_1": "1684277814",
+        "awp_cliphit_2": "206942239"
+      },
+      "Barrett": {
+        "Audio_Barrett_Fire1": "14702212934",
+        "Audio_Barrett_Fire2": "14702212543",
+        "Audio_Barrett_Fire3": "14702213083",
+        "Audio_Barrett_Fire4": "14702212248",
+        "Audio_Barrett_Fire5": "14702212055",
+        "Audio_Barrett_Fire6": "14702212720",
+        "Barret_Fire": "6975110607",
+        "Barret_MagOut": "6975110950",
+        "Barret_PullBack": "6975111834",
+        "Barret_PullForward": "6975112217"
+      },
+      "Boonie": {
+        "Boonie_Bolt": "6427394813",
+        "Boonie_Fire": "6427395984",
+        "Boonie_MagOut": "6427392039"
+      },
+      "Dragunov": {
+        "Audio_Dragunov_Fire1": "14837544310",
+        "Audio_Dragunov_Fire2": "14837544480",
+        "Audio_Dragunov_Fire3": "14837544397",
+        "Audio_Dragunov_Fire4": "14837544175",
+        "Dragunov_Fire": "7765200227"
+      },
+      "Enforcement Springfield": {
+        "Audio_EnforcementSpringfield_1 _1_": "11552240393",
+        "Audio_EnforcementSpringfield_Back _1_": "11552240187",
+        "Audio_EnforcementSpringfield_Down _1_": "11552239890",
+        "Audio_EnforcementSpringfield_Forward _1_": "11552240531",
+        "Audio_EnforcementSpringfield_Up _1_": "11552240058"
+      },
+      "G3SG1": {
+        "G3SG1_Fire": "7650267250"
+      },
+      "Henry Rifle": {
+        "Audio_HenryRifle_Fire1": "14837601358",
+        "Audio_HenryRifle_Fire2": "14837601245",
+        "Audio_HenryRifle_Fire3": "14837601145",
+        "Audio_HenryRifle_Fire4": "14837601013"
+      },
+      "Hunting Rifle": {
+        "HuntingBoltBack": "4797536653",
+        "HuntingBoltDown": "4797537041",
+        "HuntingBoltForward": "4797537412",
+        "HuntingBoltUp": "4797537625",
+        "HuntingBulletInsert-1": "4797537900",
+        "HuntingBulletInsert-2": "4797538216",
+        "HuntingBulletInsert-3": "4797538512"
+      },
+      "M1 Carbine": {
+        "Carbine_Levers": "7803050097",
+        "M1A1Carbine_Fire": "7679870329",
+        "m1carbine_boltrelease": "1544321694"
+      },
+      "M1 Garand": {
+        "Audio_M1Garand_Fire1": "14845345491",
+        "Audio_M1Garand_Fire2": "14845345229",
+        "Audio_M1Garand_Fire3": "14845345110",
+        "Audio_M1Garand_Fire4": "14845345375",
+        "Garand_BoltBack": "7656827744",
+        "Garand_BoltRelease": "7656828959",
+        "Garand_ClipIn": "7656826918",
+        "garand_fetchmag": "1544313879",
+        "Garand_Fire": "7656825183",
+        "garand_maghit": "1544314248"
+      },
+      "M14": {
+        "Audio_M14_Fire1": "14845399212",
+        "Audio_M14_Fire2": "14845399076",
+        "Audio_M14_Fire3": "14845398986",
+        "Audio_M14_Fire4": "14845398912",
+        "M14EBR_Fire": "7679872021",
+        "m14_boltforward": "757490970"
+      },
+      "M1903": {
+        "m1903_clip_bullets1": "4794726175",
+        "m1903_clip_bullets2": "4794726049",
+        "m1903_clip_insert": "4794726307",
+        "m1903_clip_remove": "4794725929"
+      },
+      "M24": {
+        "m24_boltdown_nomen": "472607866",
+        "m24_boltup": "472607991"
+      },
+      "Mauser": {
+        "MauserCarbine_Fire": "7729950375"
+      },
+      "Mosin Nagant": {
+        "Audio_MosinNagant_Fire1 _1_": "14702269674",
+        "Audio_MosinNagant_Fire2": "14702269765",
+        "Audio_MosinNagant_Fire3": "14702269592",
+        "MosinNagant_Fire": "7650270790",
+        "mosin_bulletinsert1": "757689040",
+        "mosin_bulletinsert3": "757689298",
+        "mosin_bulletinsert4": "757689418",
+        "mosin_bulletinsert5": "757689519"
+      },
+      "Sako 85": {
+        "Audio_Sako85_Fire1": "14702335729",
+        "Audio_Sako85_Fire2": "14702335641",
+        "Audio_Sako85_Fire3": "14702335379",
+        "Audio_Sako85_Fire4": "14702335549",
+        "Sako85_Fire": "7650279883"
+      },
+      "Spencer Carbine": {
+        "SpencerCarbine_Fire": "7803047954"
+      },
+      "Generic Snipers and Rifles": {
+        "Audio_SniperFire1": "7602037031",
+        "Audio_SniperRifle_BoltDown": "6031560338",
+        "Audio_SniperRifle_BoltUp": "6031560192",
+        "RifleBolt_Back": "7765270100",
+        "scope_zoom": "1684300267",
+        "sniper_railgun_dry_fire": "498290069"
+      }
+    },
+    "Explosives_and_Launchers": {
+      "Concussion Rifle": {
+        "ConcussionRifle_BoltBack": "6975211931",
+        "ConcussionRifle_BoltForward": "6975216094",
+        "ConcussionRifle_ClipIn": "6979001887",
+        "ConcussionRifle_ClipOut": "6979001681",
+        "concussion_equip": "425331935",
+        "Concussion_Explosion3": "5703247871"
+      },
+      "Firework Launcher": {
+        "Audio_FireworkLauncher_Fire1": "14702386902",
+        "Audio_FireworkLauncher_Fire2": "14702387000",
+        "Audio_FireworkLauncher_Fire3": "14702386660",
+        "Audio_FireworkLauncher_Fire4": "14702386744",
+        "Audio_FireworkLauncher_Fire5": "14702386286",
+        "Audio_FireworkLauncher_Fire6": "14702386514"
+      },
+      "Incendiary Cannon": {
+        "IncendiaryCannon_BoxIn": "6707191759",
+        "IncendiaryCannon_BoxOut": "6707187158",
+        "IncendiaryCannon_Fire": "6707186478",
+        "IncendiaryCannon_LidOpen": "6707186811"
+      },
+      "M79": {
+        "Audio_M79_Fire1": "13838542781",
+        "m79_close": "429351517",
+        "m79_fire1": "429351542",
+        "m79_insert": "429351633",
+        "m79_open": "429351673"
+      },
+      "Rocket Launcher": {
+        "rocket_reload": "10209813"
+      },
+      "TP Launcher": {
+        "Audio_TPLauncher_Fire": "7602035953",
+        "TPLauncher_Reloadmp3": "7812521330"
+      }
+    },
+    "Sci_Fi_and_Special": {
+      "Acid Spitter": {
+        "AcidSpitter_End": "7794647941",
+        "AcidSpitter_Loop": "7794647061"
+      },
+      "Arm Cannon": {
+        "ArmCannon_Fuse": "7852429446",
+        "Audio_ArmCannon_Fire1": "14702344090",
+        "Audio_ArmCannon_Fire2": "14702344403",
+        "Audio_ArmCannon_Fire3": "14702343988",
+        "Audio_ArmCannon_Fire4": "14702343745",
+        "Audio_ArmCannon_Fire5": "14702343537",
+        "Audio_ArmCannon_Fire6": "14702344244"
+      },
+      "BH10": {
+        "Audio_BH10_Fire2": "11847343314",
+        "BH10_Bolt": "7117304420",
+        "BH10_MagIn": "7117304049",
+        "BH10_MagOut": "7117303744"
+      },
+      "Cannon": {
+        "Cannon_Fire2": "7848709719"
+      },
+      "Einsteinium": {
+        "Einsteinium_Pumps": "6421182512"
+      },
+      "Focus": {
+        "Audio_Focus_Bolt": "7602315311",
+        "Audio_Focus_Close": "7602315796",
+        "Audio_Focus_Deploy": "7602315105",
+        "Audio_Focus_Fire": "7602315539",
+        "Audio_Focus_In": "7602314911",
+        "Audio_Focus_Open": "7602314735",
+        "Audio_Focus_Out": "7602315671"
+      },
+      "Ice Stars": {
+        "Audio_IceStars_Deploy": "7602245212"
+      },
+      "Lightning Cannon": {
+        "Audio_LightningCannon_Deploy": "7602314106",
+        "Audio_LightningCannon_Fire1": "14893681552",
+        "Audio_LightningCannon_Fire2": "14893681492",
+        "Audio_LightningCannon_Fire3": "14893681623",
+        "Audio_LightningCannon_Fire4": "14893681428",
+        "Audio_LightningCannon_Fire": "7602313910",
+        "Audio_LightningCannon_MagOut": "7602314276"
+      },
+      "Nailgun": {
+        "Nailgun_Fire2": "7002638477"
+      },
+      "Nutcracker": {
+        "Audio_Nutcracker_Fire1": "14699958346",
+        "Audio_Nutcracker_Fire2": "14699958423",
+        "Audio_Nutcracker_Fire3": "14699958248",
+        "Audio_Nutcracker_Fire4": "14699958106",
+        "Audio_Nutcracker_Fire5": "14699958538",
+        "Audio_Nutcracker_Fire6": "14699957899",
+        "Nutcracker_Fire": "7011386994",
+        "Nutcracker_Spin": "7812399377"
+      },
+      "Peppermint Rifle": {
+        "Audio_PeppermintRifle_Fire1": "14845411164",
+        "Audio_PeppermintRifle_Fire2": "14845411680",
+        "Audio_PeppermintRIfle_Fire3": "14845411541",
+        "Audio_PeppermintRifle_Fire4": "14845411399",
+        "Peppergun_Fire": "7607824987",
+        "PeppermintRifle_Fire": "7679872850"
+      },
+      "Perceptionist": {
+        "Perceptionist_BulletInsert1": "5876704965",
+        "Perceptionist_BulletInsert2": "5876705180",
+        "Perceptionist_BulletInsert3": "5876705439",
+        "Perceptionist_Fire": "9060923964"
+      },
+      "Plasma Launcher": {
+        "Audio_PlasmaLauncher_Deploy": "7602312587",
+        "Audio_PlasmaLauncher_Fire": "7602243789"
+      },
+      "Pulse Laser": {
+        "Audio_PulseMusket_Fire1": "13799457689",
+        "PulseLaser_Deploy": "7765808820",
+        "PulseLaser_Fire": "7735741653"
+      },
+      "Railgun": {
+        "Audio_Railgun_Fire2": "14702322404",
+        "Audio_Railgun_Fire3": "14702322843",
+        "Audio_Railgun_Fire4": "14702322193",
+        "Audio_Railgun_Fire5": "14702321772",
+        "Audio_Railgun_Fire6": "14702322675",
+        "RailgunVer3": "6975159662"
+      },
+      "Sci-Fi Musket": {
+        "sci-fi_musket_reload": "5654607497"
+      },
+      "Sunflower Sun": {
+        "SunflowerSun_Deploymp3": "7812645388"
+      }
+    },
+    "Generic_Actions": {
+      "bolt_back _1_": "112482296080282",
+      "bolt_back": "133485281626798",
+      "bolt_forward _1_": "139788381262692",
+      "bolt_forward": "102229873703268",
+      "BoxMag_In": "7765187619",
+      "BoxMag_Out": "7765186352",
+      "bullet_in": "4925224135",
+      "bullet_out": "4925224367",
+      "Conventional_Fire": "5876704002",
+      "Deploy_MarksmanRifleMP3": "7813027735",
+      "Deploy_SMGmp3": "7813032180",
+      "Draw": "4608619520",
+      "draw_primary_ogg": "331684826",
+      "draw_secondary_ogg": "331684828",
+      "MagHit1": "3832683622",
+      "MagIn": "3832684321",
+      "MagOut": "3832683994",
+      "mag_in": "128571774684742",
+      "mag_out": "74279858971400",
+      "weapon_inspect_movement2": "2233257097",
+      "weapon_inspect_movement3": "2233257280",
+      "weapon_inspect_movement4": "2233257479",
+      "zoom": "320706656"
+    }
+  },
+  "impacts": {
+    "Audio_BodyHitNormal_1": "11211427175",
+    "Audio_BodyHitNormal_2": "11211427042",
+    "Audio_BodyHitNormal_3": "11211427331",
+    "Audio_BodyHitNormal_4": "11211426923",
+    "Audio_BulletImpactConcrete_1": "11210728675",
+    "Audio_BulletImpactConcrete_2": "11210728588",
+    "Audio_BulletImpactConcrete_4": "11210728497",
+    "Audio_BulletImpactConcrete_6": "11210728415",
+    "Audio_BulletImpactMetal_1": "11210756455",
+    "Audio_BulletImpactMetal_2": "11210756543",
+    "Audio_BulletImpactMetal_3": "11210756358",
+    "Audio_BulletImpactMetal_4": "11210756265",
+    "Audio_BulletImpactWood_1": "11210867422",
+    "Audio_BulletImpactWood_2": "11210867289",
+    "Audio_BulletImpactWood_3": "11210867520",
+    "Audio_BulletImpactWood_4": "11210867626",
+    "Audio_BulletImpact_Flesh1": "7158295549",
+    "Audio_BulletImpact_Flesh2": "7158295601",
+    "Audio_BulletImpact_Flesh3": "7158295507",
+    "Audio_BulletImpact_Flesh4": "7158295468",
+    "Audio_Headshot1": "11182232820",
+    "Audio_Headshot2": "11182232767",
+    "Audio_Headshot4": "11182232630",
+    "headshot_local_01": "1533174147",
+    "headshot_local_02": "1533174287",
+    "headshot_local_03": "1533174513",
+    "headshot_local_04": "1533174727",
+    "concrete_impact_bullet1": "142082166",
+    "hitsound": "214032855",
+    "crit_hit": "4088356822",
+    "Audio_GlassShatterProcessed": "11182370507",
+    "Glass Break": "2596202821"
+  },
+  "movement": {
+    "BootConcrete10": "3242577157",
+    "BootConcrete1": "3242578949",
+    "BootConcrete2": "3242578753",
+    "BootConcrete3": "3242578575",
+    "BootConcrete4": "3242578430",
+    "BootConcrete5": "3242578255",
+    "BootConcrete6": "3242578037",
+    "BootConcrete7": "3242577782",
+    "BootConcrete9": "3242577327",
+    "BootMetal10": "3242631250",
+    "BootMetal1": "3242633754",
+    "BootMetal20": "3242633570",
+    "BootMetal3": "3242632997",
+    "BootMetal4": "3242632825",
+    "BootMetal5": "3242632611",
+    "BootMetal60": "3242632419",
+    "BootMetal7": "3242631799",
+    "BootMetal8": "3242631625",
+    "BootMetal9": "3242631406",
+    "BootTile10": "3242678305",
+    "BootTile1": "3242680236",
+    "BootTile20": "3242680056",
+    "BootTile3": "3242679449",
+    "BootTile4": "3242679312",
+    "BootTile5": "3242679184",
+    "BootTile60": "3242679070",
+    "BootTile7": "3242678705",
+    "BootTile8": "3242678578",
+    "BootTile9": "3242678436",
+    "BootWood10": "3242589664",
+    "BootWood1": "3242592861",
+    "BootWood20": "3242592731",
+    "BootWood3": "3242592055",
+    "BootWood4": "3242591908",
+    "BootWood5": "3242591724",
+    "BootWood60": "3242591488",
+    "BootWood7": "3242590211",
+    "BootWood8": "3242590040",
+    "BootWood9": "3242589881",
+    "movement-01": "118886369020979",
+    "movement_pistol2": "4036270203",
+    "movement_pistol3": "4036271055",
+    "movement_pistol4": "4036271509",
+    "DoubleJump": "7184436954"
+  },
+  "voice_and_character": {
+    "Agent_Hurt_1": "5877695069",
+    "Agent_Hurt_6": "5877695710",
+    "Agent_Hurt_7": "5877695895",
+    "Arson_ Pain_1": "6896297173",
+    "Audio_Pain_11": "6925390832",
+    "Audio_Pain_2": "6925390908",
+    "Girl_Death1": "4526343472",
+    "Girl_Death2": "4526343635",
+    "Girl_Death3": "4526343906",
+    "usw_death1": "852827017",
+    "usw_death3": "852827144",
+    "usw_death4": "852827215",
+    "usw_death5": "852827298",
+    "usw_death6": "852827363",
+    "usw_death9": "852827573",
+    "female_death_01": "146565159",
+    "female_death_02": "146565232",
+    "female_death_03": "146565372",
+    "Rouser_Laugh": "6313738094",
+    "Rouser_Line_6": "6313739366",
+    "Scoobis_speaks": "1246537612",
+    "Sans Talking": "8533444876",
+    "uuhhh_wav": "12222242"
+  },
+  "events_and_fx": {
+    "Audio_ArsenalExplosion1": "11842857805",
+    "Audio_ArsenalExplosion2": "11842857462",
+    "Audio_ArsenalExplosion3": "11842857649",
+    "Audio_ArsenalExplosion4": "11842857201",
+    "Audio_Event_BombBotExplode": "18742588554",
+    "Audio_Event_DenierSpellIgnite": "18686803401",
+    "Audio_Event_DenierSpellStart": "18686802088",
+    "Audio_Event_ForcefieldDamage": "18699877532",
+    "Audio_Event_ForcefieldShatter": "18699875324",
+    "Audio_Event_FrogAimCircle": "18686800474",
+    "Audio_Event_FrogJump": "18686801125",
+    "Audio_Event_FrogLandHeavy": "18699875710",
+    "Audio_Event_MaterialManFall": "18742588920",
+    "Audio_Event_NinjaSmoke": "18742589428",
+    "AmmoPickup": "7151448639",
+    "Healthmp3": "7151592371"
+  }
+}
