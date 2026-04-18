@@ -793,6 +793,24 @@
     "Sans Talking": "8533444876",
     "uuhhh_wav": "12222242"
   },
+   "Lobby Music": {
+    "Sci-Fi Menu": "15787066215",
+    "Main Menu Music": "8274545307",
+    "Christmas Music": "11833828578",
+    "Valentines": "8822377343",
+    "Saint Patricks": "12751929719",
+    "Halloween": "11344740171",
+    "Retro": "12743408005",
+    "Easter": "13018814522"
+  },
+  "Victory Music": {
+    "Default Victory Music": "8260685126",
+    "Electro": "8260683834",
+    "On The Run": "8274471799",
+    "Typical Colors 2": "8260685532",
+    "Barnyard": "8260678867",
+    "Breakdown": "8260679548"
+  },
   "events_and_fx": {
     "Audio_ArsenalExplosion1": "11842857805",
     "Audio_ArsenalExplosion2": "11842857462",
